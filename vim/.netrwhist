@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/private/etc/mach_init.d'
+let g:netrw_dirhist_2='/Users/stania/Work/SCBGoodLife/docs/UAT/ios-crash/tania-22jan-8'
+let g:netrw_dirhist_3='/Users/stania/Work/SCBGoodLife/docs/UAT/ios-crash/tania-22jan-5'
+let g:netrw_dirhist_4='/Users/stania/Work/SCBGoodLife/docs/UAT/ios-crash/tania-22jan-9'
+let g:netrw_dirhist_5='/Users/stania/Work/SCBGoodLife/source/tgl-ios/src/build_config/templates'
+let g:netrw_dirhist_6='/Users/stania/Work/SCBGoodLife/source/tgl-ios/src/build_config'
+let g:netrw_dirhist_7='/Users/stania/Projects/meteor/imhungry/client'
+let g:netrw_dirhist_8='/Users/stania/Projects/meteor/imhungry'
+let g:netrw_dirhist_9='/Users/stania/Projects/mifosx-projects/mifosx/mifosng-provider/gradle'
